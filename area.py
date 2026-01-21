@@ -11,3 +11,5 @@ def quad_area(a):
 
 def sike_i_main():
     return 420
+def sui():
+    return 6+9
