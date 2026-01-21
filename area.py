@@ -5,6 +5,7 @@ def circle_area(radius: np.ndarray) -> np.ndarray:
     """Calculate the area of a circle given its radius."""
     return np.pi * radius ** 2
 
+print("Yo hva skjer man!")
 def quad_area(a):
     """Calculate the area of a quadrat with sides equal a"""
     return a**2
