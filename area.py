@@ -6,3 +6,11 @@ def circle_area(radius: np.ndarray) -> np.ndarray:
     return np.pi * radius ** 2
 
 print("Yo hva skjer man!")
+def quad_area(a):
+    """Calculate the area of a quadrat with sides equal a"""
+    return a**2
+
+def sike_i_main():
+    return 420
+def sui():
+    return 6+9
